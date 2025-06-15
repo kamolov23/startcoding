@@ -2,3 +2,8 @@ kamolov
 SAidumar AShurov
 Azali Aziza
 Hamidova Muharram
+<<<<<<< HEAD
+=======
+Amonov Davron
+Nigmatov Ismoiljon
+>>>>>>> 10981e589849bc4e0c490d3d375e124011cb63ab
